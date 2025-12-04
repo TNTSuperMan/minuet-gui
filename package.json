@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/TNTSuperMan/minuet-gui.git"
   },
-  "main": "./dist/scratch-gui.js",
+  "main": "./dist/minuet-gui.js",
   "scripts": {
     "build": "bun clean && webpack",
     "clean": "rm -rf ./build ./dist",
