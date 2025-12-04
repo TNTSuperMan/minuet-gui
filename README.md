@@ -21,4 +21,4 @@
 
 主に商標の置き換えと、[minuet](https://github.com/TNTSuperMan/minuet)との統合をする変更が加えられています。詳細は以下をご覧ください。
 
-https://github.com/scratchfoundation/scratch-gui/compare/v5.2.0...TNTSuperMan:minuet-gui:main
+https://github.com/scratchfoundation/scratch-gui/compare/v5.2.0...TNTSuperMan:minuet-gui:develop
