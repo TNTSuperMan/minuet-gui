@@ -1,13 +1,14 @@
 {
-  "name": "scratch-gui",
+  "name": "minuet-gui",
   "version": "5.2.0",
-  "description": "Graphical User Interface for creating and running Scratch 3.0 projects",
-  "author": "Massachusetts Institute of Technology",
+  "description": "Graphical User Interface for creating and running minuet projects",
+  "author": "TNTSuperMan",
+  "contributors": ["Massachusetts Institute of Technology"],
   "license": "AGPL-3.0-only",
-  "homepage": "https://github.com/scratchfoundation/scratch-gui#readme",
+  "homepage": "https://github.com/TNTSuperMan/minuet-gui#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/scratchfoundation/scratch-gui.git"
+    "url": "https://github.com/TNTSuperMan/minuet-gui.git"
   },
   "main": "./dist/scratch-gui.js",
   "scripts": {
