@@ -763,8 +763,8 @@ class MenuBar extends React.Component {
                                     onMouseUp={this.props.onOpenRegistration}
                                 >
                                     <FormattedMessage
-                                        defaultMessage="Join Scratch"
-                                        description="Link for creating a Scratch account"
+                                        defaultMessage="Join minuet"
+                                        description="Link for creating a minuet account"
                                         id="gui.menuBar.joinScratch"
                                     />
                                 </div>
@@ -778,7 +778,7 @@ class MenuBar extends React.Component {
                                 >
                                     <FormattedMessage
                                         defaultMessage="Sign in"
-                                        description="Link for signing in to your Scratch account"
+                                        description="Link for signing in to your minuet account"
                                         id="gui.menuBar.signIn"
                                     />
                                     <LoginDropdown
@@ -826,7 +826,7 @@ class MenuBar extends React.Component {
                                                 src={profileIcon}
                                             />
                                             <span>
-                                                {'scratch-cat'}
+                                                {'minuet-user'}
                                             </span>
                                             <img
                                                 className={styles.dropdownCaretIcon}
